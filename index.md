@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog
+date: 2023-11-27
 ---
 
 # Welcome to Haram's Website
